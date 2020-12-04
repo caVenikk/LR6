@@ -9,15 +9,11 @@
 1. Создал аккаунт на сайте GitHub ([вот он](https://github.com/caVenikk)).
 2. Сделал копию в личное хранилище [отсюда](https://github.com/Kurtyanik/LR6/).
 3. Установил Git.
-4. После установки настроил клиент Git, введя имя пользователя (4917 Novikov N. I.) и email.
-
-Использовал команды git config --global user.name "4917 Novikov N. I." и git config --global user.email jimolostlal@gmail.com
-5. Клонировал удаленный репозиторий на компьютер.
-
-Использовал команду git clone https://github.com/Kurtyanik/LR6/
-
-	![Рисунок 1](/Screenshots/1.png)
-
+4. После установки настроил клиент Git, введя имя пользователя (4917 Novikov N. I.) и email.<br>
+Использовал команды git config --global user.name "4917 Novikov N. I." и git config --global user.email jimolostlal@gmail.com<br>
+5. Клонировал удаленный репозиторий на компьютер.<br>
+Использовал команду git clone https://github.com/Kurtyanik/LR6/<br>
+	![Рисунок 1](/Screenshots/1.png)<br>
 	Рисунок 1. Демонстация выполнения пунктов 4 и 5
 6. Перешел в ветку branch1, добавил файл и отредактировал его (через интерфейс GitHub). Далее подтянул изменения в локальный репозиторий.
 
